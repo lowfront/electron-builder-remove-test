@@ -1,0 +1,8 @@
+productName: electron-builder-test
+appId: lowfront.app.test-electron-builder
+directories:
+  output: build
+files:
+  - "**/*"
+nsis:
+  deleteAppDataOnUninstall: true

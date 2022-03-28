@@ -1,0 +1,1 @@
+localStorage.now = Date.now();
